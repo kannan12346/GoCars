@@ -1,0 +1,87 @@
+header ul li {
+  display: inline;
+  padding: 20px;
+  width: 100%;
+  background-color: rgb(198, 198, 204);
+  position: relative;
+  right: -1140px;
+}
+.container {
+  text-align: center;
+}
+body {
+  width: 100%;
+}
+a img {
+  width: 200px;
+  border-radius: 20px;
+  height: 150px;
+  box-shadow: 5px 5px 10px grey;
+}
+h1 {
+  text-align: center;
+  color: darkred;
+  font-size: 50px;
+}
+
+.automobiles div {
+  display: inline-block;
+  padding: 20px;
+}
+footer div li {
+  display: inline;
+  padding: 150px;
+}
+footer {
+  background-color: rgb(5, 5, 5);
+  color: grey;
+  width: 100%;
+  height: 350px;
+  padding: 10px 10px;
+}
+div span {
+  display: block;
+}
+ul li:nth-child(3) {
+  color: red;
+}
+.down-items div {
+  display: inline-block;
+  padding: 10px 30px;
+  /* display: block; */
+}
+.icon span {
+  display: inline;
+  padding: 10px;
+  width: 50px;
+  height: 20px;
+}
+.social div span i:hover {
+  background-color: rgb(255, 255, 255);
+  width: 20px;
+  height: 20px;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 3px 2px;
+}
+.social div span i {
+  background-color: grey;
+  color: black;
+  border-radius: 10px;
+  width: 20px;
+  height: 20px;
+  padding: 4px 2px;
+}
+.social {
+  position: relative;
+  bottom: 120px;
+  left: 100px;
+  text-align: center;
+}
+.footer-item span {
+  display: inline-block;
+  padding: 10px;
+}
+.title {
+  color: white;
+}
